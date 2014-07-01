@@ -14,4 +14,6 @@ gem "jquery-rails"
 # your gem to rubygems.org.
 
 # To use debugger
-#gem 'pry'
+# gem 'pry'
+
+gem 'rails-observers', :git => 'https://github.com/rails/rails-observers.git', :branch => 'master'
